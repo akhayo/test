@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="ALEXRT" max_length="40" name="x_98745_alexrt_alexrt" type="collection">
+        <element label="Requested for" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested Software" max_length="40" name="requested_software" type="string"/>
+    </element>
+</database>
