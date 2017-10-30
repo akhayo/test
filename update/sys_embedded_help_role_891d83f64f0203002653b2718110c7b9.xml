@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_98745_alexrt.test_table_user" name="x_98745_alexrt.test_table_user">c11d83f64f0203002653b2718110c7b7</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-30 16:18:44</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>891d83f64f0203002653b2718110c7b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c11d83f64f0203002653b2718110c7b7</sys_name>
+        <sys_package display_value="ALEXRT" source="x_98745_alexrt">0fbc97854f6183002653b2718110c7b2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="ALEXRT">0fbc97854f6183002653b2718110c7b2</sys_scope>
+        <sys_update_name>sys_embedded_help_role_891d83f64f0203002653b2718110c7b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-30 16:18:44</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
